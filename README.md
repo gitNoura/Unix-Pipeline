@@ -1,12 +1,12 @@
-# 🌐 Unix Pipeline Project  
+# 🌐 Unix Pipeline for Nginx Log Analysis  
 ## 🚀 Overview  
 This project focuses on analyzing Nginx access logs using a Unix shell pipeline. By leveraging Unix commands, we extract meaningful insights about the most visited pages and frequent visitors on a website.  
 
 ## 🔍 Introduction  
 The project delves into analyzing Nginx access logs to gain insights into user behavior and identify popular content. We created a **Unix shell pipeline** to process data efficiently, minimizing intermediate file usage.  
 ### Key Features:  
-- Extracted and analyzed top 10 most visited pages.  
-- Identified top 10 frequent visitors using IP addresses.  
+- Extracted and analyzed **top 10 most visited pages**.  
+- Identified **top 10 frequent visitors using IP addresses**.  
 
 ## ⚙️ Methodology  
 The pipeline was crafted with the following Unix commands:  
